@@ -31,3 +31,5 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://cdn.5itv.tv/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ,WarnerTV
 http://cdn.5itv.tv/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 ,叶问4
+https://data.nmbaojie.com/tuchuang/yewen4.m3u8?auth_key=1581264178-0-0-4ba269153769b67739770624526d1cf8
